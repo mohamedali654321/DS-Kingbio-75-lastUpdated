@@ -2867,9 +2867,9 @@
 
   "repository.image.logo": "شعار المستودع",
 
-  "repository.title.prefix": " المستودع الرقمي المؤسسي :: ",
+  "repository.title.prefix": " المستودع الرقمي المؤسسي لمركز توثيق سيرة الملك عبدالله بن عبدالعزيز آل سعود:: ",
 
-  "repository.title.prefixDSpace": " المستودع الرقمي المؤسسي :: ",
+  "repository.title.prefixDSpace":" المستودع الرقمي المؤسسي لمركز توثيق سيرة الملك عبدالله بن عبدالعزيز آل سعود:: ",
 
 
   "resource-policies.add.button": "إضافة",
