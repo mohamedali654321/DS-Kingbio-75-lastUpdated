@@ -284,12 +284,14 @@ import { StopContextMenuDirective } from './kware-custom-directives/stop-context
 import { ScrollingModule } from '@angular/cdk/scrolling';
 import { KwareTranslatePipe } from './utils/kware-translate.pipe'; //kware-edit
 import {KwareCommaConvertPipe} from './utils/kware-comma-convert.pipe';
+import { NgbCarouselModule } from '@ng-bootstrap/ng-bootstrap';
 const MODULES = [
   CommonModule,
   FormsModule,
   InfiniteScrollModule,
   NgbNavModule,
   NgbTypeaheadModule,
+  NgbCarouselModule,
   NgbPaginationModule,
   NgbDropdownModule,
   NgbTooltipModule,
